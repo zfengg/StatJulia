@@ -3,6 +3,7 @@ authors = ["zfengg"]
 
 [deps]
 DrWatson = "634d3b9d-ee7a-5ddf-bec9-22491ea816e1"
+OnlineStats = "a15396b6-48d5-5d58-9928-6d29437db91e"
 StatsKit = "2cb19f9e-ec4d-5c53-8573-a4542a68d3f0"
 
 [compat]
